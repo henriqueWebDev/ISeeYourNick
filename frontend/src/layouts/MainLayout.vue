@@ -8,6 +8,6 @@
 
 <script setup lang="ts">
 defineOptions({
-  name: 'MainLayout'
+  name: 'MainLayout',
 });
 </script>
